@@ -1,6 +1,13 @@
-# Object Oriented Programming
+# Networked programs
 
-### Managing larger programs
+### HyperText Transfer Protocol - HTTP
+The network protocol that powers the web is actually quite simple and there is built-in support in Python called sockets which makes it very easy to make network connections and retrieve data over those sockets in a Python program.<br>A socket is much like a file, except that a single socket provides a two-way connection between two programs. You can both read from and write to the same socket. If you write something to a socket, it is sent to the application at the other end of the socket. If you read from the socket, you are given the data which the other application has sent.<br>
+A protocol is a set of precise rules that determine who is to go first, what they are to do, and then what the responses are to that message, and who sends next, and so on. In a sense the two applications at either end of the socket are doing a dance and making sure not to step on each other's toes.
+
+
+
+
+
 
 ### Getting started
 
