@@ -1,9 +1,5 @@
-<b>attribute</b> A variable that is part of a class.<br>
-<b>class</b> A template that can be used to construct an object. Defines the attributes and methods that will make up the object.<br>
-<b>child class</b> A new class created when a parent class is extended. The child class inherits all of the attributes and methods of the parent class.<br>
-<b>constructor</b> An optional specially named method (__init__) that is called at the moment when a class is being used to construct an object. Usually this is used to set up initial values for the object.<br>
-<b>destructor</b> An optional specially named method (__del__) that is called at the moment just before an object is destroyed. Destructors are rarely used.<br>
-<b>inheritance</b> When we create a new class (child) by extending an existing class (parent). The child class has all the attributes and methods of the parent class plus additional attributes and methods defined by the child class.<br>
-<b>method</b> A function that is contained within a class and the objects that are constructed from the class. Some object-oriented patterns use 'message' instead of 'method' to describe this concept.<br>
-<b>object</b> A constructed instance of a class. An object contains all of the attributes and methods that were defined by the class. Some object-oriented documentation uses the term 'instance' interchangeably with 'object'.<br>
-<b>parent class</b> The class which is being extended to create a new child class. The parent class contributes all of its methods and attributes to the new child class.<br>
+<b>BeautifulSoup</b> A Python library for parsing HTML documents and extracting data from HTML documents that compensates for most of the imperfections in the HTML that browsers generally ignore. You can download the BeautifulSoup code from www.crummy.com.<br>
+<b>port</b> A number that generally indicates which application you are contacting when you make a socket connection to a server. As an example, web traffic usually uses port 80 while email traffic uses port 25.<br>
+<b>scrape</b> When a program pretends to be a web browser and retrieves a web page, then looks at the web page content. Often programs are following the links in one page to find the next page so they can traverse a network of pages or a social network.<br>
+<b>socket</b> A network connection between two applications where the applications can send and receive data in either direction.<br>
+<b>spider</b> The act of a web search engine retrieving a page and then all the pages linked from a page and so on until they have nearly all of the pages on the Internet which they use to build their search index.
