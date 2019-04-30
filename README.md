@@ -197,6 +197,6 @@ for tag in tags:
 
 
 ### [Glossary](./glossary.md)
-### [OOP Excercise](./exercises_http.md)
+### [http Excercise](./exercises_http.md)
 
 ## [Assignment](./assignment.md)
